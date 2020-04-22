@@ -12,7 +12,7 @@ The project uses Async/Await syntax to fetch the data from the API, React Hooks 
 
 Live Preview: [COVID-19 Tracker](https://keen-mcnulty-997285.netlify.app/)
 
-Live Preview only cards: [COVID-19 Tracker(Only cards)](https://admiring-nightingale-dd7357.netlify.app/)
+Live Preview only cards: [COVID-19 Tracker (Only cards)](https://admiring-nightingale-dd7357.netlify.app/)
 
 ## :space_invader: Technologies used
 This project was developed using this technologies:
