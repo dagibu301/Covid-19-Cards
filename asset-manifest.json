@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Covid-19-Cards/static/css/main.4ad6be4f.chunk.css",
+    "main.js": "/Covid-19-Cards/static/js/main.4f97fee3.chunk.js",
+    "main.js.map": "/Covid-19-Cards/static/js/main.4f97fee3.chunk.js.map",
+    "runtime-main.js": "/Covid-19-Cards/static/js/runtime-main.1c7ec447.js",
+    "runtime-main.js.map": "/Covid-19-Cards/static/js/runtime-main.1c7ec447.js.map",
+    "static/js/2.25a60b36.chunk.js": "/Covid-19-Cards/static/js/2.25a60b36.chunk.js",
+    "static/js/2.25a60b36.chunk.js.map": "/Covid-19-Cards/static/js/2.25a60b36.chunk.js.map",
+    "index.html": "/Covid-19-Cards/index.html",
+    "precache-manifest.44b0731c099bac9f448a6b2612dfa701.js": "/Covid-19-Cards/precache-manifest.44b0731c099bac9f448a6b2612dfa701.js",
+    "service-worker.js": "/Covid-19-Cards/service-worker.js",
+    "static/css/main.4ad6be4f.chunk.css.map": "/Covid-19-Cards/static/css/main.4ad6be4f.chunk.css.map",
+    "static/js/2.25a60b36.chunk.js.LICENSE.txt": "/Covid-19-Cards/static/js/2.25a60b36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c7ec447.js",
+    "static/js/2.25a60b36.chunk.js",
+    "static/css/main.4ad6be4f.chunk.css",
+    "static/js/main.4f97fee3.chunk.js"
+  ]
+}
